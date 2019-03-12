@@ -1,0 +1,37 @@
+.flex {
+    display: flex;
+}
+
+.Action {
+    width: 25%;
+    background: yellow;
+    text-align: center;
+}
+
+.main {
+    width: 50%;
+    text-align: center;
+    background: gray;
+}
+
+.gallary {
+    width: 25%;
+}
+
+.f1 {
+    width: 500px;
+}
+
+.racism img {
+    width: 100%;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    border: solid white 3px;
+}
